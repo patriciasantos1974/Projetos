@@ -1,0 +1,8 @@
+E:\Estudos\Projeto\DataAccess\bin\Debug\DataAccess.dll
+E:\Estudos\Projeto\DataAccess\bin\Debug\DataAccess.pdb
+E:\Estudos\Projeto\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Estudos\Projeto\DataAccess\obj\Debug\DataAccess.dll
+E:\Estudos\Projeto\DataAccess\obj\Debug\DataAccess.pdb
+E:\Estudos\Projeto\DataAccess\bin\Debug\Entidades.dll
+E:\Estudos\Projeto\DataAccess\bin\Debug\MySql.Data.dll
+E:\Estudos\Projeto\DataAccess\bin\Debug\Entidades.pdb

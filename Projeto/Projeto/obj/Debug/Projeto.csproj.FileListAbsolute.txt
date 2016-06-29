@@ -31,3 +31,10 @@ E:\Estudos\Projeto\Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatfor
 E:\Estudos\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
 E:\Estudos\Projeto\Projeto\obj\Debug\Projeto.dll
 E:\Estudos\Projeto\Projeto\obj\Debug\Projeto.pdb
+E:\Estudos\Projeto\Projeto\bin\Bussiness.dll
+E:\Estudos\Projeto\Projeto\bin\Entidades.dll
+E:\Estudos\Projeto\Projeto\bin\Bussiness.pdb
+E:\Estudos\Projeto\Projeto\bin\Entidades.pdb
+E:\Estudos\Projeto\Projeto\bin\DataAccess.dll
+E:\Estudos\Projeto\Projeto\bin\MySql.Data.dll
+E:\Estudos\Projeto\Projeto\bin\DataAccess.pdb

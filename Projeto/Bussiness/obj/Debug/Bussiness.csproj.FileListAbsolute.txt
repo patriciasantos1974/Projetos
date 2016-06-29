@@ -1,0 +1,10 @@
+E:\Estudos\Projeto\Bussiness\bin\Debug\Bussiness.dll
+E:\Estudos\Projeto\Bussiness\bin\Debug\Bussiness.pdb
+E:\Estudos\Projeto\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+E:\Estudos\Projeto\Bussiness\obj\Debug\Bussiness.dll
+E:\Estudos\Projeto\Bussiness\obj\Debug\Bussiness.pdb
+E:\Estudos\Projeto\Bussiness\bin\Debug\DataAccess.dll
+E:\Estudos\Projeto\Bussiness\bin\Debug\Entidades.dll
+E:\Estudos\Projeto\Bussiness\bin\Debug\MySql.Data.dll
+E:\Estudos\Projeto\Bussiness\bin\Debug\DataAccess.pdb
+E:\Estudos\Projeto\Bussiness\bin\Debug\Entidades.pdb
